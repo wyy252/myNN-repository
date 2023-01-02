@@ -1,5 +1,5 @@
 # myNN-repository
-Repositry for neural network
+Repository for neural network
 
 ###########目录结构描述
 

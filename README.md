@@ -1,7 +1,9 @@
 # myNN-repository
 Repositpry for neural network
+
 ###########目录结构描述
-        Readme.md                   // help
+
+
         data                        // 数据文件
         code                        // 代码文件
             models                  // 训练好的模型文件
@@ -10,13 +12,16 @@ Repositpry for neural network
             reg_lstm.py             // 训练并优化lstm模型
             reg_gru.py              // 训练并优化gru模型
             reg_rnn.py              // 训练并优化rnn模型
-            main.py                 // 同时训练三个模型
-	  predicty.py             // 用于模型预测
+            train.py                 // 同时训练三个模型
+	      predicty.py             // 用于模型预测
+
 
 ### 安装环境
 python环境为3.8.3 
+
 第三方依赖
 pip install torch scikit-learn pandas numpy matplotlib icecream
+
 ###实验环境
 ubuntu18 64位
 
